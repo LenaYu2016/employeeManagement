@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "angular-2-local-storage",
+      "D:\\xampp\\htdocs\\php_project2\\management"
+    ]
+  ],
+  "_from": "angular-2-local-storage@*",
+  "_id": "angular-2-local-storage@0.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular-2-local-storage",
+  "_nodeVersion": "6.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/angular-2-local-storage-0.0.5.tgz_1463435643708_0.7460378119722009"
+  },
+  "_npmUser": {
+    "email": "craigspence0@gmail.com",
+    "name": "phenomnomnominal"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular-2-local-storage",
+    "raw": "angular-2-local-storage",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-2-local-storage/-/angular-2-local-storage-0.0.5.tgz",
+  "_shasum": "e4881a992e87ecd7992dc36eeba02750914b9bd2",
+  "_shrinkwrap": null,
+  "_spec": "angular-2-local-storage",
+  "_where": "D:\\xampp\\htdocs\\php_project2\\management",
+  "author": {
+    "email": "craigspence0@gmail.com",
+    "name": "Craig Spence"
+  },
+  "bugs": {
+    "email": "craigspence0@gmail.com",
+    "url": "https://github.com/phenomnomnominal/angular-2-local-storage/issues"
+  },
+  "dependencies": {},
+  "description": "LocalStorageService for Angular 2 with mostly the same API (and most of the code) from angular-local-storage",
+  "devDependencies": {
+    "@angular/core": "2.0.0-rc.1",
+    "rxjs": "5.0.0-beta.6",
+    "typescript": "1.8.10"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e4881a992e87ecd7992dc36eeba02750914b9bd2",
+    "tarball": "https://registry.npmjs.org/angular-2-local-storage/-/angular-2-local-storage-0.0.5.tgz"
+  },
+  "gitHead": "fc1e6be29c5252c0466f22eb9880071da5bbb894",
+  "homepage": "https://github.com/phenomnomnominal/angular-2-local-storage#readme",
+  "license": "MIT",
+  "main": "dist/angular-2-local-storage.js",
+  "maintainers": [
+    {
+      "name": "phenomnomnominal",
+      "email": "craigspence0@gmail.com"
+    }
+  ],
+  "name": "angular-2-local-storage",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenomnomnominal/angular-2-local-storage.git"
+  },
+  "scripts": {
+    "compile": "tsc"
+  },
+  "version": "0.0.5"
+}
